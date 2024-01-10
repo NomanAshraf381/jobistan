@@ -1,0 +1,72 @@
+.fa-chevron-down:before {
+    content: "\f078"
+}
+section{
+    padding-top: 30px;
+}
+section .section-wrapper>h1{
+    text-align: center;
+}
+section .section-wrapper>p{
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    margin: 30px 10% 10px;
+}
+.faq-container{
+    margin-top: 40px;
+}
+.faq{
+    position: relative;
+    border-bottom: 1px solid var(--theme-color);
+    border-left: 5px solid transparent;
+}
+.faq:hover{
+    border-color: var(--theme-color);
+}
+.faq .question{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 20px;
+}
+.faq .answer{
+    display: none;
+    margin-right: 30px;
+    padding: 0 20px 25px;
+    cursor: default;
+}
+.faq h2{
+    font-size: 19px;
+    margin: 0;
+    font-weight: 700;
+}
+
+.faq.faqact{
+    background-color: var(--scroll);
+    border-color: var(--theme-color);
+}
+.faq.faqact .question>i{
+    transform: rotate(180deg);
+
+}
+.faq.faqact .answer{
+    display: block;
+    font-weight: 500;
+    letter-spacing: .5px;
+}
+
+@media screen and (max-width: 900px) {
+    .faq h2{
+        font-size: 18px;
+    }
+    section .section-wrapper>p{
+        margin: 20px 0 10px;
+    }   
+}
+
+@media screen and (max-width: 700px) {
+    .faq h2{
+        font-size: 17px;
+    }
+}

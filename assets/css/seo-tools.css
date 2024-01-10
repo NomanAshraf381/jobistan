@@ -1,0 +1,370 @@
+section {
+    padding: 50px 5%;
+}
+
+section h1,
+section h2 {
+    text-align: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+section .section-wrapper>p {
+    text-align: center;
+    margin: 15px 5%;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+section .section-wrapper>p a {
+    text-decoration: underline;
+    color: var(--link);
+    font-weight: 500;
+}
+
+section .section-wrapper>p a:hover {
+    color: var(--theme-color);
+}
+
+section h1::after,
+section h2:after {
+    content: '';
+    width: 90px;
+    height: 4px;
+    border-radius: 25px;
+    background: linear-gradient(to right, var(--theme-color), var(--bdr));
+    display: block;
+    position: absolute;
+    bottom: 3px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.carrd {
+    border-bottom: 3px solid var(--theme-color);
+    border-radius: 3px;
+    height: 100%;
+    overflow: hidden;
+    background-color: white;
+}
+
+.card-img {
+    position: relative;
+}
+
+.effect {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    background-color: var(--whitefaded);
+    opacity: 0;
+}
+
+.carrd:hover a,
+.lcard:hover a {
+    color: var(--theme-color);
+}
+
+.carrd:hover .effect,
+.lcard:hover .effect {
+    animation: cardeffect .5s forwards;
+}
+
+@keyframes cardeffect {
+    10% {
+        background-color: white;
+    }
+
+    40% {
+        background-color: white;
+    }
+
+    100% {
+        background-color: var(--whitefaded);
+        /* opacity: .3; */
+        opacity: 1;
+        box-shadow: inset 0 0 10px 10px var(--bdr);
+    }
+}
+
+.effect span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 60px;
+    background-color: var(--theme-color);
+    color: white;
+    z-index: 101;
+    opacity: 1;
+}
+
+.effect span i {
+    transform: rotate(40deg);
+}
+
+.carrd:hover .effect span i,
+.lcard:hover .effect span i {
+    animation: rotateicon .2s forwards .1s;
+}
+
+@keyframes rotateicon {
+    to {
+
+        transform: rotate(0);
+    }
+}
+
+.card-img img {
+    aspect-ratio: 3/2;
+    width: 100%;
+    vertical-align: bottom;
+    height: auto;
+}
+
+.carrd {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 7px 20px var(--cardshadow);
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.card-title a,
+.lcard a {
+    text-decoration: none;
+    font-weight: 500;
+    color: var(--title-color);
+    font-size: 16px;
+}
+
+.card-title a {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden !important;
+    line-height: 1.4;
+}
+
+.lcard a {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1;
+    color: var(--theme-color);
+}
+
+.card-foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--bdr);
+    font-size: 12px;
+}
+
+.card-foot span {
+    font-weight: 500;
+}
+
+.card-foot i {
+    color: var(--theme-color);
+}
+
+.card-date,
+.card-view {
+    position: relative;
+    cursor: default;
+}
+
+.viewzz+span {
+    display: none;
+}
+
+.card-view .viewz,
+.card-date .upload {
+    position: absolute;
+    bottom: 25px;
+    background-color: white;
+    padding: 3px 5px;
+    box-shadow: 0 0 0 2px var(--cardshadow);
+    z-index: 100;
+    font-weight: 500;
+    color: var(--theme-color);
+    display: none;
+}
+
+.card-view .viewz {
+    right: 0;
+}
+
+.card-date .upload {
+    left: 0;
+}
+
+.card-view .viewz::after,
+.card-date .upload::after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -10px;
+
+    border: 5px solid;
+    border-color: var(--bdr) transparent transparent transparent;
+}
+
+.card-date .upload.upload::after {
+    left: 10px;
+}
+
+.card-view .viewz::after {
+    right: 10px;
+}
+
+.card-date:hover .upload,
+.card-view:hover .viewz {
+    display: block;
+}
+
+.dataload {
+    position: relative;
+}
+
+.loading {
+    display: none;
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.loadingani {
+    margin: 0 auto 50px;
+    display: block;
+    text-align: center;
+}
+
+.loadingani.disappear {
+    display: none;
+}
+
+.magicbutton3 {
+    text-decoration: none;
+    display: block;
+    width: 190px;
+    height: 50px;
+    margin: 30px auto 0;
+    position: relative;
+    cursor: pointer;
+}
+
+.magicbutton3 span:first-of-type {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: var(--button);
+    color: white;
+    border-radius: 26px;
+    text-align: center;
+    line-height: 50px;
+    transition: .2s;
+}
+
+.magicbutton3 span:nth-of-type(2) {
+    right: 0;
+    top: 0;
+    position: absolute;
+    color: var(--button);
+    font-weight: 700;
+    line-height: 50px;
+    padding-right: 30px;
+    text-transform: uppercase;
+}
+
+.magicbutton3.btnact span:first-of-type {
+    width: 100%;
+    text-align: left;
+    padding: 0 30px 0 20px;
+    transition: .5s;
+}
+
+.magicbutton3.btnact span:nth-of-type(2) {
+    right: 0;
+    top: 0;
+    position: absolute;
+    color: white;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: .6s;
+}
+
+.popular-1 {
+    background-image: url(../img/popularbg.png);
+}
+
+.lcard {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background-color: white;
+    border-top: 3px solid var(--bdr);
+    border-radius: 4px;
+    box-shadow: 0 7px 20px var(--cardshadow);
+    height: 100%;
+}
+
+.lcard:hover {
+    border-color: var(--theme-color);
+    transition: .5s;
+}
+
+.lcard-content {
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lcard .card-img img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3/2;
+}
+
+.lcard-content a {
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    display: inline-block;
+}
+
+.lcard-content p {
+    font-size: 14px;
+    line-height: 1.3;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.lcard .card-foot {
+    border: none;
+}
+
+@media screen and (max-width: 700px) {
+    .lcard-content p {
+        display: none !important;
+    }
+}

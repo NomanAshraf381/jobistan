@@ -1,0 +1,497 @@
+<section class="popular-1">
+    <div class="section-wrapper">
+        <h2 class="pb-3">Health</h2>
+        <p>
+            A <b>healthy lifestyle</b> is one which helps to <i>keep and improve people's health and
+                well-being</i> and can also help <i>overcome lots of stress</i>. Many governments and <a
+                href="#">non-governmental organizations</a> work in promoting <a href="#">healthy
+                lifestyles</a>. Healthy living is a lifelong effect. Being healthy includes healthy eating,
+            physical activities, weight management, and stress management.
+        </p>
+        <p>
+            <b>SEO tools</b> provide <i>data and alerts about the overall health and success of your
+                website</i>. They help uncover areas of opportunity and identify weaknesses or issues that may
+                prevent you from <a href="#">ranking</a> and earning visibility in the <a href="#">SERPs</a>. Just
+                as actual tools each have a specific role, the same is true in SEO.
+        </p>
+        <div class="cardz row">
+            <div class="col-xl-6 col-lg-12  mt-4 mt-4">
+                <div class="lcard px-2 py-4">
+                    <a href="#" title="Read Blog">
+                        <div class="card-img">
+                            <img width="210px" height="140px" src="assets/img/loader.gif"
+                                data-orig-img="assets/img/lcard5.webp" alt="Advantages and Disadvantages of SEO">
+                            <div class="effect">
+                                <span>
+                                    <i class="fa-solid fa-link"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="lcard-content">
+                        <div class="lcardcontent">
+                            <a href="#">Advantages & Disadvantages of SEO? How it helps you website ranking higher</a>
+                            <p>Anti-blue light glasses are designed to block or filter out the blue light
+                                emitted bypart of many industries today, given
+                                the massive amounts of data </p>
+                        </div>
+                        <div class="card-foot">
+                            <div class="card-date" title="Published on">
+                                <i class="fa-regular fa-calendar"></i>
+                                <span>26 Jan 2023</span>
+                            </div>
+                            <div class="card-view" title='wait...'>
+                                <i class="fa-regular fa-eye"></i>
+                                <span class="viewzz" data-view-count="343"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-12  mt-4 mt-4">
+                <div class="lcard px-2 py-4">
+                    <a href="#" title="Read Blog">
+                        <div class="card-img">
+                            <img width="210px" height="140px" src="assets/img/loader.gif"
+                                data-orig-img="assets/img/lcard6.webp" alt="What is internet Internet">
+                            <div class="effect">
+                                <span>
+                                    <i class="fa-solid fa-link"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="lcard-content">
+                        <div class="lcardcontent">
+                            <a  href="#">Information about the Internet how can we use it for Education -
+                                Ammar</a>
+                            <p>The Internet sometimes called "the Net" is a worldwide system of computer
+                                networks. A network of netwopart of many industries today, given
+                                the massive amounts of data rks</p>
+                        </div>
+                        <div class="card-foot">
+                            <div class="card-date" title="Published on">
+                                <i class="fa-regular fa-calendar"></i>
+                                <span>30 Dec 2023</span>
+                            </div>
+                            <div class="card-view" title='wait...'>
+                                <i class="fa-regular fa-eye"></i>
+                                <span class="viewzz" data-view-count="7"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-12  mt-4 mt-4">
+                <div class="lcard px-2 py-4">
+                    <a href="#" title="Read Blog">
+                        <div class="card-img">
+                            <img width="210px" height="140px" src="assets/img/loader.gif"
+                                data-orig-img="assets/img/random15.webp" alt="Advantages and Disadvantages of Pistachios">
+                            <div class="effect">
+                                <span>
+                                    <i class="fa-solid fa-link"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="lcard-content">
+                        <div class="lcardcontent">
+                            <a href="#">Advantages and Disadvantages of Pistachios , Benefits on our Health - Noman
+                                Ashraf</a>
+                            <p>Pistachios are a member of the cashew family (Anacardiaceae) and are
+                                historically the oldest nut Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Molestiae, iusto? Fugit error dolor ex vitae iusto sed numquam expedita illum. </p>
+                        </div>
+                        <div class="card-foot">
+                            <div class="card-date" title="Published on">
+                                <i class="fa-regular fa-calendar"></i>
+                                <span>26 Jan 2023</span>
+                            </div>
+                            <div class="card-view" title='wait...'>
+                                <i class="fa-regular fa-eye"></i>
+                                <span class="viewzz" data-view-count="12"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-12  mt-4 mt-4">
+                <div class="lcard px-2 py-4">
+                    <a href="#" title="Read Blog">
+                        <div class="card-img">
+                            <img width="210px" height="140px" src="assets/img/loader.gif"
+                                data-orig-img="assets/img/lcard8.webp" alt="Online Learning is good or bad">
+                            <div class="effect">
+                                <span>
+                                    <i class="fa-solid fa-link"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="lcard-content">
+                        <div class="lcardcontent">
+                            <a href="#">Advantages and Disadvantages of Online Learning is it useful for Us - Umair</a>
+                            <p>Digital Marketing Era Digital media is any communication media that
+                                operate in conjunction with variousLorem ipsum dolor sit amet consectetur adipisicing
+                                elit. Molestiae, iusto? Fugit error dolor ex vitae iusto sed numquam expedita illum.</p>
+                        </div>
+                        <div class="card-foot">
+                            <div class="card-date" title="Published on">
+                                <i class="fa-regular fa-calendar"></i>
+                                <span>21 Dec 2022</span>
+                            </div>
+                            <div class="card-view" title='wait...'>
+                                <i class="fa-regular fa-eye"></i>
+                                <span class="viewzz" data-view-count="34"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-12  mt-4 mt-4">
+                <div class="lcard px-2 py-4">
+                    <a href="#" title="Read Blog">
+                        <div class="card-img">
+                            <img width="210px" height="140px" src="assets/img/loader.gif"
+                                data-orig-img="assets/img/random16.webp" alt="Problems with ChatGPT">
+                            <div class="effect">
+                                <span>
+                                    <i class="fa-solid fa-link"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="lcard-content">
+                        <div class="lcardcontent">
+                            <a href="#">5 Big Problems With OpenAI's ChatGPT That needs to be addressed - Mehreen
+                                Aslam</a>
+                            <p>[toc] What Is ChatGPT? ChatGPT is a large language learning model
+                                that was designed to imitate human Lorem ipsum dolor sit amet consectetur adipisicing
+                                elit. Molestiae, iusto? Fugit error dolor ex vitae iusto sed numquam expedita illum.</p>
+                        </div>
+                        <div class="card-foot">
+                            <div class="card-date" title="Published on">
+                                <i class="fa-regular fa-calendar"></i>
+                                <span>18 Jan 2023</span>
+                            </div>
+                            <div class="card-view" title='wait...'>
+                                <i class="fa-regular fa-eye"></i>
+                                <span class="viewzz" data-view-count="231"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-12  mt-4 mt-4">
+                <div class="lcard px-2 py-4">
+                    <a href="#" title="Read Blog">
+                        <div class="card-img">
+                            <img width="210px" height="140px" src="assets/img/loader.gif"
+                                data-orig-img="assets/img/random17.webp" alt="introduction of internet">
+                            <div class="effect">
+                                <span>
+                                    <i class="fa-solid fa-link"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </a>
+                    <div class="lcard-content">
+                        <div class="lcardcontent">
+                            <a href="#">Internet Basics What is the Internet? How to use it for our benefit -
+                                Bakhtawar</a>
+                            <p>The Internet is a global electronic communication system also known as ‘’the net’’. The
+                                Internet provides a chance Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                Molestiae, iusto? Fugit error dolor ex vitae iusto sed numquam expedita illum.</p>
+                        </div>
+                        <div class="card-foot">
+                            <div class="card-date" title="Published on">
+                                <i class="fa-regular fa-calendar"></i>
+                                <span>24 Jan 2022</span>
+                            </div>
+                            <div class="card-view" title='wait...'>
+                                <i class="fa-regular fa-eye"></i>
+                                <span class="viewzz" data-view-count="3432"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="popular">
+    <div class="section-wrapper">
+        <h2 class="pb-3">Digital Marketing</h2>
+        <p>
+            <b>Digital marketing</b> is the component of marketing that uses the <a href="#">Internet</a> and
+            online-based digital technologies such as desktop computers, mobile phones and other digital media
+            and platforms <i>to promote products and services</i>. Its development during the 1990s and 2000s
+            changed the way <i>brands and businesses use technology for marketing</i>.
+        </p>
+        <p>
+            <b>SEO tools</b> provide <i>data and alerts about the overall health and success of your
+            website</i>. They help uncover areas of opportunity and identify weaknesses or issues that may
+            prevent you from <a href="#">ranking</a> and earning visibility in the <a href="#">SERPs</a>. Just
+            as actual tools each have a specific role, the same is true in SEO.
+        </p>
+        <div class="cardz row">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" data-orig-img="assets/img/random1.webp" width="300px"
+                                    height="200px" alt="What is digital marketing">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">What is digital Marketing? Why everyone need to know about Digital
+                                Marketing?</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>15 Jan 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="23"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random2.webp"
+                                    alt="Advantages and Disadvantages of Laravel Website Development">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">What are the Advantages and Disadvantages of Laravel for Website
+                                Development?</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>21 May 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="21"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random3.webp"
+                                    alt="Advantages and Disadvantages of Pistachios-Shoaib">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">Advantages and Disadvantages of Pistachios , Benefits on our Health - Shoaib</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>23 Jan 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="1"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random4.webp" alt="Advantages Of Digital Marketing">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">Advantages Of Digital Marketing is it Important for businesses – Afia Khan</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>25 Jan 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="34322"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random5.webp" alt="What is ecomerce">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">What is E-commerce? And How to trade and sell products using Internet?</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>15 Jan 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="22"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random6.webp"
+                                    alt="Advantages and Disadvantages of Laravel Website Development">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">What are the Advantages and Disadvantages of jQuery for Website Development?</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>21 May 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="23"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random7.webp" alt="Advantages and Disadvantages of kaju">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">Advantages and Disadvantages of Kaju are they benificial for us - Shoaib</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>23 Jan 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="11"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-4">
+                <div class="carrd">
+                    <div class="cardbody">
+                        <a href="#" title="Read Blog">
+                            <div class="card-img">
+                                <img src="assets/img/loader.gif" width="300px" height="200px"
+                                    data-orig-img="assets/img/random8.webp" alt="Advantages Of Digital Marketing">
+                                <div class="effect">
+                                    <span>
+                                        <i class="fa-solid fa-link"></i>
+                                    </span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="card-title py-2 px-3">
+                            <a href="#">Advantages Of knowing that how to use Digital Marketing Techniques – Afia
+                                Khan</a>
+                        </div>
+                    </div>
+                    <div class="card-foot p-2">
+                        <div class="card-date" title="Published on">
+                            <i class="fa-regular fa-calendar"></i>
+                            <span>25 Jan 2023</span>
+                        </div>
+                        <div class="card-view" title='wait...'>
+                            <i class="fa-regular fa-eye"></i>
+                            <span class="viewzz" data-view-count="21"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="seo-tools.html">
+            <div class="magicbutton3">
+                <span>
+                    <i class="fa fa-angle-right btnicon" aria-hidden="true"></i>
+                </span>
+                <span>
+                    VIEW MORE
+                </span>
+            </div>
+        </a>
+    </div>
+</section>

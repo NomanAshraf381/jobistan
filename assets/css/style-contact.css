@@ -1,0 +1,261 @@
+nav li a{
+    font-weight: 500;
+}
+
+.section-wrapper {
+    display: flex;
+}
+
+.contact-form,
+.information {
+    padding: 35px;
+    border-radius: 7px;
+    border-top: 4px solid var(--theme-color);
+    box-shadow: 0 0 30px 15px var(--infoshadow);
+}
+
+.contact-form h1,
+.information h2 {
+    color: var(--theme-color);
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.contact-form p {
+    font-size: 13px;
+}
+
+.ribbon {
+    margin-bottom: 50px;
+}
+
+.name,
+.subj,
+.email {
+    position: relative;
+}
+
+.name i,
+.subj i,
+.email i {
+    position: absolute;
+    left: 15px;
+    bottom: 17px;
+    font-size: 19px;
+    color: var(--theme-color);
+}
+
+.contact-form form {
+    margin-top: 20px;
+    border-top: 1px solid var(--bdr);
+}
+
+.name-email {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.sendmessage {
+    padding-top: 50px;
+}
+
+.sendmessage label {
+    display: block;
+    margin: 20px 0 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.sendmessage input {
+    border: none;
+    border-left: 5px solid var(--theme-color);
+    box-shadow: 0 0 20px 5px var(--infoshadow);
+    padding: 15px 12px 15px 40px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 18px;
+}
+
+.sendmessage input,
+.sendmessage textarea {
+    width: 100%;
+}
+
+.mess {
+    position: relative;
+}
+
+.mess i {
+    position: absolute;
+    top: 45px;
+    left: 15px;
+    font-size: 19px;
+    color: var(--theme-color);
+}
+
+textarea {
+    border-color: var(--bdr);
+    font-size: 18px;
+    padding: 10px 10px 10px 50px;
+}
+
+.button-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.contact-form button {
+   
+    
+    
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    padding: 12px 18px;
+    background-size: 200% auto;
+    box-shadow: 0 0 40px var(--infoshadow);
+    background-image: linear-gradient(to right, var(--theme-color), var(--inpborder), var(--theme-color));
+    outline: 0;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    transition: all 1s;
+}
+
+
+.contact-form button:hover {
+    background-position: right center;
+}
+
+.information h2 {
+    padding-bottom: 35px;
+    border-bottom: 1px solid var(--bdr);
+}
+
+.information img {
+    aspect-ratio: 2/1;
+    width: 100%;
+    height: auto;
+}
+
+.column1 {
+    width: 66%;
+    padding: 0 15px;
+}
+
+.column2 {
+    width: 33%;
+    padding: 0 15px;
+}
+
+.contact-details div {
+    padding: 15px 0;
+    border-bottom: 1px solid var(--bdr);
+}
+
+.contact-details div:last-of-type {
+    border-bottom: none;
+}
+
+.contact-details span {
+    color: var(--theme-color);
+    font-weight: 500;
+    font-size: 17px !important;
+    margin-right: 10px;
+}
+
+.contact-details a {
+    text-decoration: none;
+    color: var(--blurblack);
+    font-weight: 600;
+}
+
+.contact-details a:hover {
+    color: var(--theme-color);
+}
+
+.fa-user:before {
+    content: "\f007"
+}
+
+.fa-envelope:before {
+    content: "\f0e0"
+}
+
+.fa-file-lines:before {
+    content: "\f15c"
+}
+
+.fa-pencil:before {
+    content: "\f303"
+}
+
+.fa-phone:before {
+    content: "\f095"
+}
+
+iframe{
+    border: none;
+    width: 100%;
+    aspect-ratio: 3/1;
+    height: auto;
+}
+.smedia-accounts{
+    padding-top: 50px;
+}
+
+@media screen and (max-width: 1350px) {
+    .column1{
+        width: 60%;
+    }   
+    .column2{
+        width: 40%;
+    }
+}
+@media screen and (max-width: 1150px) {
+    .section-wrapper{
+        flex-direction: column;
+    }
+    .column1{
+        width: 100%;
+        padding: 0;
+    }   
+    .column2{
+        width: 100%;
+        padding: 0;
+        padding-top: 30px;
+    }
+}
+@media screen and (max-width: 900px){
+    .name-email{
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+    .contact-form,
+    .information {
+        padding: 20px;    
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .button-div {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    section{
+        padding: 0;
+    }
+    .column1{
+        padding: 0 5%;
+    }
+    .contact-form{
+        box-shadow: none;
+    }
+}

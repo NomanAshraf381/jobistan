@@ -1,0 +1,314 @@
+<div class="carousel-indicators">
+                                    <button type="button" data-bs-target="#carouselExampleIndicators"
+                                        data-bs-slide-to="0" class="active" aria-current="true"
+                                        aria-label="Slide 1"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators"
+                                        data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                    <button type="button" data-bs-target="#carouselExampleIndicators"
+                                        data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                </div>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/new1.webp"
+                                                            alt="learn seo and start freelanceing">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">Learn SEO and start Freelancing today as it has huge
+                                                        market - Noman
+                                                        Ashraf</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>01 Apr 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="34"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/new2.webp"
+                                                            alt="increase in freelancers">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">Why Freelancers are increasing with the passage of time
+                                                        - Noman
+                                                        Ashraf</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>28 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="5434"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/new3.webp"
+                                                            alt="Earn money online in 2023">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">How we can earn money online by SEO? Ways of Earning
+                                                        money by using
+                                                        internet</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>31 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="3434"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/new4.webp" alt="Application Developer">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">Why Time Managemet is important? How can we maange time
+                                                        effectively? -
+                                                        Noman</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>31 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="435622"></span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/datascience.webp"
+                                                            alt="what is data science">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">What is Data Science? And how can we use data to gain
+                                                        required
+                                                        results</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>01 Apr 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="656"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/einstien.webp"
+                                                            alt="Albert Einstein best Quotes">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">Albert Einstein best Quotes on science and other aspects
+                                                        of life - Noman
+                                                        Ashraf</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>28 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="767"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/ecommerce2 (1).webp"
+                                                            alt="Earn money online in 2023">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">How we can earn money online in 2023? Ways of Earning
+                                                        money by using
+                                                        internet</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>31 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="454"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/appdevelopment.webp"
+                                                            alt="Application Developer">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">Procedure of Application Development? Phases and
+                                                        information about the
+                                                        phases</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>31 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="75443"></span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="carrd">
+                                            <div class="cardbody">
+                                                <a href="#" title="Read Blog">
+                                                    <div class="card-img">
+                                                        <img src="assets/img/loader.gif" width="300px" height="200px"
+                                                            data-orig-img="assets/img/seo1.webp" alt="Benefits of SEO">
+                                                        <div class="effect">
+                                                            <span>
+                                                                <i class="fa-solid fa-link"></i>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                                <div class="card-title py-2 px-3">
+                                                    <a href="#">SEO improves website visibility, drives organic traffic,
+                                                        improve
+                                                        business growth</a>
+                                                </div>
+                                            </div>
+                                            <div class="card-foot p-2">
+                                                <div class="card-date" title="Published on">
+
+                                                    <i class="fa-regular fa-calendar"></i>
+                                                    <span>15 Jan 2023</span>
+                                                </div>
+                                                <div class="card-view" title="wait...">
+
+                                                    <i class="fa-regular fa-eye"></i>
+                                                    <span class="viewzz" data-view-count="5"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
